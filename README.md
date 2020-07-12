@@ -14,10 +14,6 @@ To simulate a client-server environment locally, You will need to configure your
 
 Note that there are several environmental variables you will have to configure if you are following our integration methodology. These are shown in the .env files you can fill out.
 
-## Demo
-
-> http://161.35.110.201:4200/
-
 ## Installation
 1. Firstly, ensure that the server computer and client computer has Node.js Installed on their systems.
 2. For each folder (back-end, clients, & front-end), perform npm install to download all required packages.
@@ -31,7 +27,7 @@ npm install
 1. On the front-end folder, run ng-build command to build the web application.
 2. On the client folder (multiple client camera's can run this), simply execute node client.js <your-camera-location> command to initiate the live stream 
 3. On the back-end folder, run node server.js command to initiate the server.
-
+3. Visit the web server via localhost://YOUR_SPECIFIED_PORT
 ```sh
 node server.js
 ```
