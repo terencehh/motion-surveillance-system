@@ -36,7 +36,7 @@ node server.js
 
 👤 **Terence Ng**
 
-* Website: https://www.terencehh.engineer/
+* Website: https://terence-portfolio.netlify.app
 * Github: [@terencehh](https://github.com/terencehh)
 * LinkedIn: [@terencenghh](https://linkedin.com/in/terencenghh)
 
